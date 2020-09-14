@@ -10,7 +10,7 @@ ValidationAttribute class is included in DataAnnotations namespace. It helps you
 
 Below picture show implementation of Custom Validation attribute 
 
-![Custom Validation attribute in ASP.NET MVC](http://dotnetmentors.com/Images/asp-net-mvc-custom-validation.png)
+![Custom Validation attribute in ASP.NET MVC](https://geeksarray.com/images/blog/asp-net-mvc-custom-validation.png)
 
 For more details visit - [Custom Validation Attribute in ASP.NET MVC](https://geeksarray.com/blog/how-to-do-custom-validation-using-validationattribute-of-aspnet-mvc)
 
